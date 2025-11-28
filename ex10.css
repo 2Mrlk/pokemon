@@ -21,10 +21,12 @@
     grid-row: 3 / 4;
 }
 body {
-    background-color: rgb(236, 159, 87);
+    background: linear-gradient(135deg, #e0f7ff 0%, #81d4fa 100%);
 }
 
 
 img{
-    border: 2px black solid;
+    border: 3px solid #0288d1;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(2, 136, 209, 0.3);
 }

@@ -21,10 +21,12 @@
     flex-basis: 100px;
 }
 body {
-    background-color: rgb(241, 243, 128);
+    background: linear-gradient(135deg, #b3e5fc 0%, #81d4fa 100%);
 }
 
 
 img{
-    border: 2px black solid;
+    border: 3px solid #0288d1;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(2, 136, 209, 0.3);
 }
